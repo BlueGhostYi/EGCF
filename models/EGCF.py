@@ -1,6 +1,6 @@
 """
 Created on June 10, 2023,
-PyTorch Implementation of NIE-GCN
+PyTorch Implementation of EGCF
 """
 
 import torch
