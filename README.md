@@ -10,7 +10,7 @@ numpy == 1.24.3
 ```
 
 ## Examples to run the codes
-We adopt three widely used large-scale recommendation datasets: Yelp2018, Amazon-Book, and Alibaba-iFashion. EGCF is an easy-to-use recommendation model in which the most important hyperparameters are the weight of the contrastive loss `ssl_lambda` and temperature coefficient 'temperature'.
+We adopt three widely used large-scale recommendation datasets: Yelp2018, Amazon-Book, and Alibaba-iFashion. EGCF is an easy-to-use recommendation model in which the most important hyperparameters are the weight of the contrastive loss `ssl_lambda` and temperature coefficient `temperature`.
 
 Steps to run the code:
 1. In the folder . /configure to configure the EGCF.txt file
