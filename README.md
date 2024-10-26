@@ -44,3 +44,15 @@ mode = alternate
 3. Run main.py.
 
 *EGCF is now also integrated into the graph recommendation library [ID-GRec](https://github.com/BlueGhostYi/ID-GRec).
+
+## Citation
+If you find this work is helpful to your research, please consider citing our paper:
+```
+@article{zhang2024simplify,
+  title={Simplify to the Limit! Embedding-less Graph Collaborative Filtering for Recommender Systems},
+  author={Zhang, Yi and Zhang, Yiwen and Sang, Lei and Sheng, Victor S},
+  journal={ACM Transactions on Information Systems},
+  year={2024},
+  publisher={ACM New York, NY}
+}
+```
