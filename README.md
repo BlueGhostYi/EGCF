@@ -1,6 +1,7 @@
 # EGCF
-Simplify to the Limit! Embedding-less Graph Collaborative Filtering for Recommender Systems
-
+This is the PyTorch implementation for our TOIS 2024 paper:
+> Yi Zhang, Lei Sang, and Yiwen Zhang*. 2024. [Simplify to the Limit! Embedding-less Graph Collaborative Filtering for Recommender Systems](https://dl.acm.org/doi/10.1145/3701230). ACM Transactions on Information Systems (TOIS ’24).
+> 
 ## Environment
 ```
 python == 3.8.18
@@ -41,3 +42,5 @@ mode = alternate
 *The log folder provides training logs for reference. The results of a single experiment may differ slightly from those given in the paper because they were run several times and averaged in the experiment.
 
 3. Run main.py.
+
+*EGCF is now also integrated into the graph recommendation library [ID-GRec](https://github.com/BlueGhostYi/ID-GRec).
