@@ -1,6 +1,6 @@
 # EGCF
 This is the PyTorch implementation for our TOIS 2024 paper:
-> Yi Zhang, Lei Sang, and Yiwen Zhang*. 2024. [Simplify to the Limit! Embedding-less Graph Collaborative Filtering for Recommender Systems](https://dl.acm.org/doi/10.1145/3701230). ACM Transactions on Information Systems (TOIS ’24).
+> Yi Zhang, Lei Sang, Yiwen Zhang*, and Victor S Sheng. 2024. [Simplify to the Limit! Embedding-less Graph Collaborative Filtering for Recommender Systems](https://dl.acm.org/doi/10.1145/3701230). ACM Transactions on Information Systems (TOIS ’24).
 > 
 ## Environment
 ```
